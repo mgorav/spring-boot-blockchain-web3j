@@ -6,7 +6,7 @@ IntelliJ solidity support is good and is highly recommended.  Also thanks to web
 
 Block chain will be one of the disruptive technology in near future.Some of the potential use cases of BlockChain technologies:
 1. Financial Service - [Payment services](https://lnkd.in/eckdDHm) etc
-2. Health Insurance - Potential solutions for interoperability and data exchange and for more details read article https://lnkd.in/eyP6qSv
+2. Health Insurance - Potential solutions for interoperability and data exchange and for more details [read article](https://lnkd.in/eyP6qSv)
 3. Subscriptions management 
 5. Vehicles registration/history - to avoid vehicle fraud, checkout super [article](https://lnkd.in/e2san5f)
 6. ......
