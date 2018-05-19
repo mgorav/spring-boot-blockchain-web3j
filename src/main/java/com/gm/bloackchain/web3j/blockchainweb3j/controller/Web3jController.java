@@ -19,6 +19,9 @@ public class Web3jController {
     @GetMapping("/version")
     String version() throws IOException {
 
+
         return web3j.web3ClientVersion().send().getWeb3ClientVersion();
     }
+
+    // TODO Just add HTTP API for voting
 }
