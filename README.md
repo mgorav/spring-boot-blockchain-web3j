@@ -22,6 +22,4 @@ http :4020/web3j/version
   mvn web3j:generate-sources
  ```
 
-Vola!!! Ready to enter in de-centralized application building. Create contract using solidity and ready to rock & roll 
-
-
+Vola!!! Ready to enter in de-centralized application building.
