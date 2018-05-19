@@ -16,6 +16,12 @@ To send http synchronous requests using [httpie](https://httpie.org)
 
 http :4020/web3j/version
 
+### Convert voting.sol to java
+ 
+ ```
+  mvn web3j:generate-sources
+ ```
+
 Vola!!! Ready to enter in de-centralized application building. Create contract using solidity and ready to rock & roll 
 
 
