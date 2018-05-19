@@ -61,7 +61,7 @@
                 <version>0.3.0</version>
                 <configuration>
                     <packageName>com.gm.bloackchain.web3j.model</packageName>
-                    <sourceDestination>src/main/java/generated</sourceDestination>
+                    <sourceDestination>src/main/java/</sourceDestination>
                     <nativeJavaType>true</nativeJavaType>
                     <soliditySourceFiles>
                         <directory>src/main/resources</directory>
