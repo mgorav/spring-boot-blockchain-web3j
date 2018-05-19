@@ -1,6 +1,6 @@
 ## Block Chain Using web3j + ethereum
 
-First step to build decentralized application using block chain (web3j + ethereum) is by creating contract (example votting.sol -  decentralized voting protocol) using contract oriented language solidity and we are ready to enter into new architecture style, design thinking & development - termed decentralization.
+First step to build decentralized application using block chain (web3j + ethereum) is by creating contract (example votting.sol -  decentralized voting protocol) using contract oriented language solidity and we are ready to enter into new architecture style, design thinking & development - termed [decentralization](https://en.wikipedia.org/wiki/Blockchain).
 
 IntelliJ solidity support is good and is highly recommended.  Also thanks to web3j maven solidity plugin to bring us back to java world by generating java based contract :-) The programming model and ease of development is key to success of any technology. Spring BOOT + web3j make it ease to build blockchain based applications. 
 
